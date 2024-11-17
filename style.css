@@ -87,7 +87,7 @@ p {
 .Home {
   width: 100%;
   position: relative;
-  background-image: url(./public/her3.jpg);
+  background-image: url(./her3.jpg);
   background-position: center;
   background-size: cover;
   height: 950px;
@@ -204,7 +204,7 @@ p {
   color: #fff;
 }
 .place1 {
-  background-image: url(./public/icon1.png);
+  background-image: url(./icon1.png);
   background-position: center;
   background-size: cover;
   height: 550px;
@@ -218,7 +218,7 @@ p {
   padding: 1rem;
 }
 .place2 {
-  background-image: url(./public/icon2.png);
+  background-image: url(./icon2.png);
   background-position: center;
   background-size: cover;
   height: 550px;
@@ -230,7 +230,7 @@ p {
   background-color: rgb(0, 0, 0, 0.5);
 }
 .place3 {
-  background-image: url(./public/icon3.png);
+  background-image: url(./icon3.png);
   background-position: center;
   background-size: cover;
   height: 550px;
@@ -271,7 +271,7 @@ p {
   padding: 4rem 0;
 }
 .blog1 {
-  background-image: url(./public/img1.png);
+  background-image: url(./img1.png);
   background-position: center;
   background-size: cover;
   height: 400px;
@@ -282,7 +282,7 @@ p {
   background-color: rgb(0, 0, 0, 0.5);
 }
 .blog2 {
-  background-image: url(./public/img4.png);
+  background-image: url(./img4.png);
   background-position: center;
   background-size: cover;
   height: 400px;
@@ -293,7 +293,7 @@ p {
   background-color: rgb(0, 0, 0, 0.5);
 }
 .blog3 {
-  background-image: url(./public/img2.png);
+  background-image: url(./img2.png);
   background-position: center;
   background-size: cover;
   height: 400px;
@@ -304,7 +304,7 @@ p {
   background-color: rgb(0, 0, 0, 0.5);
 }
 .blog4 {
-  background-image: url(./public/img3.png);
+  background-image: url(./img3.png);
   background-position: center;
   background-size: cover;
   height: 400px;
@@ -447,7 +447,7 @@ p {
 }
 .contact2 {
   color: #fff;
-  background-image: url(./public/Rectangle-1.png);
+  background-image: url(./Rectangle-1.png);
   /* background-position: center; */
   background-size: cover;
   height: 348px;
